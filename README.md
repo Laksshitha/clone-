@@ -14,6 +14,3 @@
 
 <h2>Credits</h2>
 <p>This design is inspired by the work of <strong><a href="https://dribbble.com/alexanderstets">Alexander Stets</a></strong>. Special thanks to the original designer.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the <strong>MIT License</strong> - see the <a href="LICENSE">LICENSE</a> file for details.</p>
